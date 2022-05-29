@@ -12,7 +12,7 @@ function comprobarPalindromo(param) {
 
   // igualamos las cadenas haciendo uso del operador ternario
   let esPalindromo = (cadenaUsuarioSinEspaciosInvertida == cadenaUsuarioSinEspacios) ? 'es palíndromo' : 'no es palíndromo';
-  alert(`${param} ${esPalindromo}`);
+  alert(`"${param}" ${esPalindromo}`);
 }
 // invocamos la función anterior
 comprobarPalindromo(cadenaUsuario);

@@ -4,11 +4,11 @@ let cadenaUsuario = prompt("Introduce una cadena de texto");
 // la función que comprueba qué letras contiene la cadena de texto recibida como parámetro 
 function comprobarCadena(param) {
     if (param.toUpperCase() == param) {
-        alert(`${param} contiene solo mayúsculas`);
+        alert(`"${param}" contiene solo mayúsculas`);
     } else if (param.toLowerCase() == param) {
-        alert(`${param} contiene solo minúsculas`);
+        alert(`"${param}" contiene solo minúsculas`);
     } else {
-        alert(`${param} contiene mayúsculas y minúsculas`);
+        alert(`"${param}" contiene mayúsculas y minúsculas`);
     }
 }
 // invocamos la función pasándole como parámetro la cadena de texto

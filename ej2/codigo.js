@@ -1,5 +1,5 @@
 // asignamos el array de strings a una variable 
-let mensaje = ["¡Hola mundo!", "Soy el primer script", "\n Qué facil es incluir 'comillas simples'", '\n y comillas dobles"'];
+let mensaje = ["¡Hola mundo!", "Soy el primer script", "\n Qué facil es incluir 'comillas simples'", '\n y "comillas dobles"'];
 
 // mostramos por consola las posiciones de array deseadas 
 console.log(mensaje[0]);
