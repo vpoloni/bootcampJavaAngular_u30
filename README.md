@@ -1,5 +1,5 @@
 # bootcampJavaAngular_u30
-Este repositorio contiene los ejercicios resueltos de la unidad 20.  
+Este repositorio contiene los ejercicios resueltos de la unidad 30.  
 El tema: JavaScript.
 
 ![image](https://user-images.githubusercontent.com/89861246/170871595-8e237e16-2250-4ae3-89ef-4421d86e8b78.png)
